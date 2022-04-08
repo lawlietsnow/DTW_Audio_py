@@ -2,3 +2,5 @@ pillow
 wave
 numpy
 matplotlib
+noisereduce
+wavfile
