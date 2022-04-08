@@ -1,3 +1,7 @@
 pillow
 dtw
+wave
+numpy
 matplotlib
+noisereduce
+wavfile
