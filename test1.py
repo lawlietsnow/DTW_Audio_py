@@ -1,5 +1,5 @@
-file1 = "E:/DTW_Audio_py/mjRecord1.wav"
-file2= "E:/DTW_Audio_py/mjRecord2.wav"
+file1 = "./mjRecord1.wav"
+file2= "./mjRecord2.wav"
 import wave
 import numpy as np
 import matplotlib.pyplot as plt
