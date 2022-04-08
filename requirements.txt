@@ -1,1 +1,4 @@
 pillow
+wave
+numpy
+matplotlib
